@@ -115,9 +115,9 @@ namespace StygianCoreControls
       this.Font = new Font("Microsoft Sans Serif", 10.25f);
       this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
       this.Margin = new Padding(4);
-      this.Name = nameof (Settings);
+      this.Name = "Settings";
       this.StartPosition = FormStartPosition.CenterParent;
-      this.Text = nameof (Settings);
+      this.Text = "Settings";
       this.FormClosing += new FormClosingEventHandler(this.Settings_FormClosing);
       this.Load += new EventHandler(this.Form2_Load);
       ((ISupportInitialize) this.btnbrowse).EndInit();

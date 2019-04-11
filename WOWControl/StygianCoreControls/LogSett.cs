@@ -164,7 +164,7 @@ namespace StygianCoreControls
       this.Font = new Font("Microsoft Sans Serif", 10.25f);
       this.FormBorderStyle = FormBorderStyle.FixedToolWindow;
       this.Margin = new Padding(4);
-      this.Name = nameof (LogSett);
+      this.Name = "LogSett";
       this.StartPosition = FormStartPosition.CenterParent;
       this.Text = "AutoSave Settings";
       this.FormClosing += new FormClosingEventHandler(this.LogSett_FormClosing);
