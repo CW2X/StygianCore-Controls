@@ -1,4 +1,4 @@
-﻿// Decompiled with JetBrains decompiler
+﻿// 
 // Type: Tools
 // Assembly: StygianCoreControls, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
 // MVID: 5EFC93AA-1C3F-4A5D-8CDA-0294962306B4
